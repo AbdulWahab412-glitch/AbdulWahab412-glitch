@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- HEADER -->
-<h1 align="center">Hi there, I'm <a href="https://github.com/yourusername" target="_blank">Your Name 👋</a></h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/yourusername" target="_blank">Shaikh Abdul Wahab👋</a></h1>
 <h3 align="center">💻 Database Developer | SQL Enthusiast | Data Analyst</h3>
 
 <p align="center">
