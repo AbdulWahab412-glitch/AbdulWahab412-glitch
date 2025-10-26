@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:sabdulwahab412@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/AbdulWahab-glitch"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
+  <a href="https://github.com/AbdulWahab412-glitch"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
 </p>
 
 ---
